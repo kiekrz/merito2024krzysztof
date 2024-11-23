@@ -11,3 +11,4 @@
 		- PlainReports, share dependencies among report family, `ConcreteFacotry3`.
 ![alt text](https://github.com/gwasylow/dotnet-design-patterns/blob/master/Images/dp-abstract-factory.PNG)
 
+Moja nowa funkcjonalność implementowana na branchu branch-krzysztof
